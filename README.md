@@ -12,7 +12,7 @@ The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops,
 <br>
 <p align="center"><img width=60% src="https://github.com/partofthestars/LGI-PPGI-DB/blob/master/media/cpi_db.jpg"></p>
 <p align="center"><img width=60% src="https://github.com/partofthestars/LGI-PPGI-DB/blob/master/media/alex_db.jpg"></p>
-<p align="center"><img width=60% src="https://github.com/partofthestars/LGI-PPGI-DB/blob/master/media/feli_db.jpg"></p>
+<p align="center"><img width=60% src="https://github.com/partofthestars/LGI-PPGI-DB/blob/master/media/felix_db.jpg"></p>
 <br>
 
 ## Downloads
