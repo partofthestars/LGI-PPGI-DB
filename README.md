@@ -20,6 +20,7 @@ HD C270 webcam and as reference ground truth measurements we synchronized a comm
 
 ## Downloads
 The data can be download by the following links:<br>
+(i'll update the missing links as soon as i got some more webspace!)<br>
 <br>
 - [ID1: 7.57GB](https://gw.cancontrols.com/LGI_DATABASE/id1.zip "id1.zip")
 - [ID2: 5.49GB](https://gw.cancontrols.com/LGI_DATABASE/id2.zip "id2.zip")
