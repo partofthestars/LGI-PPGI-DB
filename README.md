@@ -21,7 +21,7 @@ HD C270 webcam and as reference ground truth measurements we synchronized a comm
 ## Downloads
 The data can be download by the following links:<br>
 <br>
-- [ID1: 7.5GB](https://drive.google.com/open?id=1EUhRWIHyAU4QVKSp9UUja8MQhZbHernl "Heading link")
-- [ID2: 5.49GB](https://drive.google.com/open?id=1EUhRWIHyAU4QVKSp9UUja8MQhZbHernl "Heading link")
+- [ID1: 7.5GB](https://drive.google.com/open?id=1EUhRWIHyAU4QVKSp9UUja8MQhZbHernl "located at googledrive")
+- [ID2: 5.49GB](https://drive.google.com/open?id=1EUhRWIHyAU4QVKSp9UUja8MQhZbHernl "located at googledrive")
 
 
