@@ -24,7 +24,7 @@ The data can be download by the following links:<br>
 - [ID1: 7.57GB](https://gw.cancontrols.com/LGI_DATABASE/id1.zip "id1.zip")
 - [ID2: 5.49GB](https://gw.cancontrols.com/LGI_DATABASE/id2.zip "id2.zip")
 - [ID3: 4.21GB](https://gw.cancontrols.com/LGI_DATABASE/id3.zip "id3.zip")
-- [ID4: 5.61GB](https://gw.cancontrols.com/LGI_DATABASE/id4.zip "id4.zip")
+- [ID4: 5.36GB](https://gw.cancontrols.com/LGI_DATABASE/id4.zip "id4.zip")
 - ID5 t.b.c.
 - ID6 t.b.c.
 - ID7 t.b.c.
