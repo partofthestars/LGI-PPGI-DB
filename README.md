@@ -10,8 +10,10 @@ The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops,
 
 ## Face Video Data
 <br>
+<p align="center"><img width=100% src="https://github.com/partofthestars/LGI-PPGI-DB/blob/master/media/alex_db.jpg"></p>
+<br>
 The data can be download by the following links:<br>
-
+<br>
 - [ID1](https://github.com/pandao/editor.md "Heading link")
 - [ID2](https://github.com/pandao/editor.md "Heading link")
 
