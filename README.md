@@ -19,7 +19,7 @@ female in the range of 25-42 years. The majority ethnicity is Caucasian. The cam
 HD C270 webcam and as reference ground truth measurements we synchronized a common ﬁnger pulseoximeter, a CMS50E PPG device, over its serial port communication protocol. The average frame rate of the camera is set to 25 FPS and for the pulseoximeter 60 FPS. The camera video stream is captured uncompressed with auto-exposure and stored into an AVI container. For every captured image the time stamp is stored too. The pulseoximeter signal is stored together with the device’s pre-computed heart rate information.
 
 ## Downloads
-The data can be download by the following links:<br>
+The data can be downloaded using the following links:<br>
 <br>
 - [ID1: 7.57GB](https://gw.cancontrols.com/LGI_DATABASE/id1.zip "id1.zip")
 - [ID2: 5.49GB](https://gw.cancontrols.com/LGI_DATABASE/id2.zip "id2.zip")
