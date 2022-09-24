@@ -1,5 +1,5 @@
 # LGI-PPGI-Face-Video-Database
-[![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://opensource.org/licenses/gpl-3.0.html)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 <br>
 <br>
 C.S. Pilz, S. Zaunseder, J. Krajewski, V. Blazek,<br>
