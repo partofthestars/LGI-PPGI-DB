@@ -20,10 +20,23 @@ HD C270 webcam and as reference ground truth measurements we synchronized a comm
 
 ## Downloads
 
-NOTE: Due to ongoing hustle with the company where I've recorded the database, <br>
+NOTE: <br>
+Due to ongoing hustle and shit talk with the company where I've recorded the database, <br>
 there are no sessions for dowload available currently.<br>
 It seems the company isn't willing to provide storage and <br>
 bandwidth for hosting the LGI videos anymore.<br>
+I'm sorry that such relatively simple and sensible things are torpedoed by various idiots.<br>
+<br>
+Since I've rescued the first six session I might provide these for the community
+in case someone has enough cloud storage where I could upload the zip archives.<br>
+<br>
+Or try to contact the company CanControls in Aachen/Germany.
+Ulrich Canzler: canzler@cancontrols.com
+or the Medical Information Technology (MedIT),
+Helmholtz-Institute for Biomedical Engineering at RWTH Aachen University.
+Prof. Steffen Leonhardt: medit@hia.rwth-aachen.de
+Christoph Weiss: weiss@hia.rwth-aachen.de
+<br>
 
 
 The data can be downloaded using the following links:<br>
