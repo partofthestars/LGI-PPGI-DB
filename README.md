@@ -27,7 +27,7 @@ It seems the company isn't willing to provide storage and <br>
 bandwidth for hosting the LGI videos anymore.<br>
 I'm sorry that such relatively simple and sensible things are torpedoed by various idiots.<br>
 <br>
-Since I've rescued the first six session I might provide these for the community
+Since I've rescued the first six session I might provide these for the community<br>
 in case someone has enough cloud storage where I could upload the zip archives.<br>
 <br>
 Or try to contact the company CanControls in Aachen/Germany.<br>
