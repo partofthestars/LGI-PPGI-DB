@@ -30,12 +30,12 @@ I'm sorry that such relatively simple and sensible things are torpedoed by vario
 Since I've rescued the first six session I might provide these for the community
 in case someone has enough cloud storage where I could upload the zip archives.<br>
 <br>
-Or try to contact the company CanControls in Aachen/Germany.
-Ulrich Canzler: canzler@cancontrols.com
-or the Medical Information Technology (MedIT),
-Helmholtz-Institute for Biomedical Engineering at RWTH Aachen University.
-Prof. Steffen Leonhardt: medit@hia.rwth-aachen.de
-Christoph Weiss: weiss@hia.rwth-aachen.de
+Or try to contact the company CanControls in Aachen/Germany.<br>
+Ulrich Canzler: canzler@cancontrols.com<br>
+or the Medical Information Technology (MedIT),<br>
+Helmholtz-Institute for Biomedical Engineering at RWTH Aachen University.<br>
+Prof. Steffen Leonhardt: medit@hia.rwth-aachen.de<br>
+Christoph Weiss: weiss@hia.rwth-aachen.de<br>
 <br>
 
 
