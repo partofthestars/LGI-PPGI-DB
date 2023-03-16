@@ -20,9 +20,11 @@ HD C270 webcam and as reference ground truth measurements we synchronized a comm
 
 ## Downloads
 
-NOTE: Because of crawler and DOS attack on the data server,<br>
-which paralyzed our entire bandwidth, we have changed the links.<br>
-Please send us a short email and we will send you the new links.<bt>
+NOTE: Due to ongoing hustle with the company where I've recorded the database, <br>
+there are no sessions for dowload available currently.<br>
+It seems the company isn't willing to provide storage and <br>
+bandwidth for hosting the LGI videos anymore.<br>
+
 
 The data can be downloaded using the following links:<br>
 <br>
